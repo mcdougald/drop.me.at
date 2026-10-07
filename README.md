@@ -36,7 +36,7 @@ drop.me.at sends a big file to one person without leaving it in someone's cloud 
 
 ## Part of the me.at family
 
-drop.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+drop.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
